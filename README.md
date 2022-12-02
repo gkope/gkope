@@ -39,7 +39,7 @@ My name is Gabriel Kope and welcome to my Github :)
 
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gkope&theme=solarized-dark)](https://git.io/streak-stats)\
+ [![](https://github-readme-streak-stats.herokuapp.com?user=gkope&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)\
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkope&theme=solarized_dark)\
  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gkope&theme=solarized_dark)\
  
